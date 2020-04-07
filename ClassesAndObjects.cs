@@ -1,6 +1,6 @@
 using System;
 
-namespace ProgrammingFundamentals
+namespace ComputerScienceFundamentals
 {
     class Program
     {
